@@ -1,0 +1,146 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/air-sealing.html",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-alvin.html",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/attic-insulation",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/attic-insulation.html",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/blown-in-insulation",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/blown-in-insulation.html",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/spray-foam-insulation",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/spray-foam-insulation.html",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/injection-foam-insulation",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/injection-foam-insulation.html",
+      "destination": "/air-sealing",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-pasadena",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-the-woodlands",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-league-city",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-baytown",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-texas-city",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-pasadena.html",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-the-woodlands.html",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-league-city.html",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-baytown.html",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/insulation-texas-city.html",
+      "destination": "/insulation-alvin",
+      "permanent": true
+    }
+  ]
+}
